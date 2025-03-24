@@ -14,7 +14,7 @@ Este projeto foi desenvolvido com fins **didáticos** entre a Digital Innovation
 
 ## 🎯 Objetivo
 
-Este projeto tem como principal objetivo **praticar e fixar os pilares fundamentais da Programação Orientada a Objetos (POO)e Linguagem de Modelagem Unificada (UML), os quais incluem:  
+Este projeto tem como principal objetivo praticar e fixar os pilares fundamentais da Programação Orientada a Objetos (POO)e Linguagem de Modelagem Unificada (UML), os quais incluem:  
 
 
 ✅ **Classes e Objetos**  
@@ -60,9 +60,15 @@ Implementamos interfaces para definir contratos que as classes devem seguir, gar
 
 ## Diagrama UML
 
+O diagrama UML foi criardo utilizando a sintaxe 🔗 [Mermaid](https://www.mermaidchart.com/play?utm_source=mermaid_js&utm_medium=banner_ad&utm_campaign=teams_C#pako:eNp1U-9r2zAQ_VeuLhkp1CPN2rH5w1h-N2XpPiwbDPxFts6xFkcKkpzUhP7vO8l2YlZmiNBJ77073bucglRxDKIgK9QxzZm2sJ7GsteDZzo3sQT6Rv04yFgSZSysVGnLBOGHJShqWJSCYxzc1MDxW-CKbRHmrfgZKe--nkCkSkbgKNEGd3FwC3tl3EHi9nkEw_vXGj7xwk43UWobqj1K-IZMS1gpfck_PcXBT4NgcwTkwiodB42CHPZXTFZgcrZHc0PZ_S4CjgWrGtCsXyepQfBLmJIVMPNKTYr5uZI0x4NWMiz3MOIcJPULhASrVJEwfa5pcSGo3Q6lDbmyBkZLoI5cGvJ4hjGt1TEsMLPw3b2TkCRrqM9A9PLMWHaE6W6NLxe1p_4brXW1JzdQ75jgYCpp2QuBvdUzvkEgLySmVihpIEF7REotOzMAYfgFxn6d-FXewTuY0k8Om-7TMYxLUXBgksMUjdhID535dd6BOZfoYe544dfHzmVb5R_jr2rYU1PsUnJxENwZ41tubFUIuXkPa1154w-1a7X_rR2Q0R6ZETSzDeOqzugipApTVSgdXc_9dwuZKIroejQaDFxkrFZbbOMucfEvsYUOBpNPDx9aoTrqEpf_Iw4_fxxeKqij5u2_VQkpk8D8vFka0aOwOdijoj9NLw7Addy4cWFAxl8Fr38BbsswyQ), uma open-source que é compatível com arquivos Markdown.
+
+
 ![Diagrama Iphone](https://github.com/user-attachments/assets/277a2d6a-56ab-47b3-af3c-55b6e1273152)
 
-##Funcionamento
+---
+
+## Funcionamento
+
 Os dados são solicitados e inseridos através do terminal, onde o usuário receberá um menu indicando as opções a serem escolhidas e seus repectivos números. Por exemplo:
 
 - Programa:
